@@ -4,6 +4,7 @@ exercise_sessions.tsv
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
 
 ### Kotlin ###
 .kotlin
